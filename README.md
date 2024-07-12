@@ -1,4 +1,4 @@
-## About me :artificial_satellite:	:earth_africa:
+### About me :satellite: :artificial_satellite:	:earth_africa:
 :rocket: I'm a Space Scientist working in Dublin, Ireland. 
 
 :rocket: I study the Earth's Space Weather
@@ -10,6 +10,13 @@
 :rocket: I collaborate on work at other planets :ringed_planet:
 
 :email: arfogg@cp.dias.ie
+
+:office: [@DIASPlanetary](https://github.com/DIASPlanetary)
+
+:computer: 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-alexandra-ruth-fogg-3057a1234)
+[ORCiD](https://orcid.org/0000-0002-1139-5920)
+
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
