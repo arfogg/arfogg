@@ -1,9 +1,9 @@
 ### About me :satellite: :artificial_satellite:	:earth_africa:
-:rocket: I'm a Space Scientist working in Dublin, Ireland. 
+:rocket: I'm a Space Scientist working in Dublin, Ireland
 
 :rocket: I study the Earth's Space Weather
 
-:rocket: My research is computational, using large and complex datasets and exciting statistical techniques.
+:rocket: My research is computational, using large and complex datasets and exciting statistical techniques
 
 :rocket: I'm currently working on Bi- and Multi- variate Extreme Value Analysis in Python ([see here](https://github.com/arfogg/bi_multi_variate_eva))
 
