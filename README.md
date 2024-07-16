@@ -18,7 +18,7 @@
 [ORCiD](https://orcid.org/0000-0002-1139-5920)
 
 
-### Languages
+### Languages :snake: :computer:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 IDL
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
@@ -26,5 +26,5 @@ IDL
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
-### Operating Systems
+### Operating Systems :penguin: :desktop_computer:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
