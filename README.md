@@ -18,6 +18,7 @@
 [ORCiD](https://orcid.org/0000-0002-1139-5920)
 
 
+
 ### Languages :snake: :computer:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 IDL
@@ -26,5 +27,13 @@ IDL
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfogg&hide_border=true&hide_title=true)
+
+
+
 ### Operating Systems :penguin: :desktop_computer:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+
+
+### Public Repository Stats
+![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfogg&show_icons=true&theme=ambient_gradient&hide_title=true&rank_icon=github)
