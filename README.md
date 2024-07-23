@@ -31,9 +31,10 @@ IDL
 
 
 
-### Operating Systems :penguin: :desktop_computer:
+### Operating Systems and Media :penguin: :desktop_computer:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### Public Repository Stats
 ![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfogg&show_icons=true&theme=ambient_gradient&hide_title=true&rank_icon=github)
