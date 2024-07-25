@@ -1,14 +1,27 @@
-### About me :satellite: :artificial_satellite:	:earth_africa:
+### Hi! :wave: I'm Alexandra
+
+#### About me :satellite: :artificial_satellite:	:earth_africa:
+
 :rocket: I'm a Space Scientist working in Dublin, Ireland
 
 :rocket: I study the Earth's Space Weather
+
+:rocket: I collaborate on work at other planets :ringed_planet: :handshake:
 
 :rocket: My research is computational, using large and complex datasets and exciting statistical techniques
 
 :rocket: I'm currently working on Bi- and Multi- variate Extreme Value Analysis in Python ([see here](https://github.com/arfogg/bi_multi_variate_eva))
 
-:rocket: I collaborate on work at other planets :ringed_planet:
+#### :star_struck: I love working on / learning about:
 
+:bar_chart: Statistics and Data Science
+
+:chart_with_upwards_trend: Machine Learning
+
+:file_folder: Multi-dimensional / Big Data
+
+
+#### :speech_balloon: Contact me
 :email: arfogg@cp.dias.ie
 
 :office: [@DIASPlanetary](https://github.com/DIASPlanetary)
@@ -38,3 +51,6 @@ IDL
 
 ### Public Repository Stats
 ![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfogg&show_icons=true&theme=ambient_gradient&hide_title=true&rank_icon=github)
+
+### :handshake: Support
+All contributions, :ant: issues or :zap: feature requests are welcomed!
