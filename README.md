@@ -40,9 +40,8 @@ IDL
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfogg&hide_border=true&hide_title=true)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfogg&show_icons=true&layout=compact&theme=vue)
 
 ### Operating Systems and Media :penguin: :desktop_computer:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
@@ -50,7 +49,7 @@ IDL
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### Public Repository Stats
-![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfogg&show_icons=true&theme=ambient_gradient&hide_title=true&rank_icon=github)
+![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfogg&show_icons=true&theme=vue&hide_title=true&rank_icon=github)
 
 ### :handshake: Support
 All contributions, :ant: issues or :zap: feature requests are welcomed!
