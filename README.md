@@ -10,7 +10,10 @@
 
 :rocket: My research is computational, using large and complex datasets and exciting statistical techniques
 
-:rocket: I'm currently working on Bi- and Multi- variate Extreme Value Analysis in Python ([see here](https://github.com/arfogg/bi_multi_variate_eva))
+:rocket: I'm currently working on:
+
+  + :bar_chart: Bi- and Multi-variate Extreme Value Analysis in Python ([see here](https://github.com/arfogg/bi_multi_variate_eva))
+  + :earth_africa: Detecting Periodicities in Earth's natural radio emissions ([see here](https://github.com/arfogg/AKR_periodicities))
 
 #### :star_struck: I love working on / learning about:
 
@@ -33,6 +36,8 @@
 
 
 ### Languages :snake: :computer:
+Experience:
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 IDL
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
@@ -40,6 +45,7 @@ IDL
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
+Current:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfogg&show_icons=true&layout=compact&theme=vue)
 
