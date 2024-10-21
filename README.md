@@ -14,6 +14,7 @@
 
   + :bar_chart: Bi- and Multi-variate Extreme Value Analysis in Python ([see here](https://github.com/arfogg/bi_multi_variate_eva))
   + :earth_africa: Detecting Periodicities in Earth's natural radio emissions ([see here](https://github.com/arfogg/AKR_periodicities))
+  + :sunny: Quantifying the effects of solar wind pressure pulses at Irish and Italian latitudes
 
 #### :star_struck: I love working on / learning about:
 
